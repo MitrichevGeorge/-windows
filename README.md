@@ -15,5 +15,5 @@ iwr -useb get.scoop.sh | iex
 > Возможно будет следущая проблема:
 > <details>
 >  <summary>Текст который может вывестись</summary>
->  <p> <img src="https://github.com/user-attachments/assets/aadd5f14-1b2c-442b-9500-60a0d30886cb)"/>
+>  <p> <img src="https://github.com/MitrichevGeorge/-windows/blob/main/img/1.png"/>
 > </details>
