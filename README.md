@@ -18,9 +18,7 @@ iwr -useb get.scoop.sh | iex
 >  <p> <img src="https://github.com/MitrichevGeorge/-windows/blob/main/img/2.png"/>
 > </details>
 > Тогда надо прописать
-> ```powershell
-> Set-ExecutionPolicy RemoteSigned -scope CurrentUser -Force
-> ```
+> ``` Set-ExecutionPolicy RemoteSigned -scope CurrentUser -Force ```
 
 ### UV
 ```powershell
