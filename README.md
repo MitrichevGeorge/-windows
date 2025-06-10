@@ -73,7 +73,7 @@ choco install ffmpeg
 
 ## Просто так
 ### Ani-cli
-Понадобится [fzf](#fzf)
+Понадобится [mpv](#mpv)
 ```powershell
 uv tool install anicli-ru
 ```
