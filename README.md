@@ -51,7 +51,20 @@ Repair-WinGetPackageManager
 Invoke-WebRequest 'https://ramensoftware.com/downloads/windhawk_setup.exe' -OutFile 'windhawk_setup.exe'; Start-Process 'windhawk_setup.exe'
 ```
 
+### Fluent terminal
+прокачанный прозрачный терминал
+```powershell
+scoop install fluentterminal
+```
+
 ## консольные утилиты
+### MSYS2
+Оболочка работающая похоже на Arch
+```powershell
+scoop install msys2
+msys2
+```
+
 ### mpv
 Воспроизведение видео из консоли
 ```powershell
